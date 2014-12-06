@@ -1,14 +1,22 @@
 Publikacja nr 1
 Rocznik pierwszego wydania : 1800
 Tytuł: Lalka
+ HEAD
 Autor: Boleslaw Prus i Janek i ja 
 
 Dane :  nasze dane
 Analiza: 
 jjdbsydw
+=======
+Autor: Boleslaw Prus i Janek dfdsfdsf
+
+Dane :  nasze dane
+Analiza: 
+dfdsfdsfs
+ JANEK
 Wnioski : 
 To Janek
-Bibliografia: 
+Bibliografia: dfdfed
 Ocena: 
 sdasdfef
 bdle ble bloe :D 
